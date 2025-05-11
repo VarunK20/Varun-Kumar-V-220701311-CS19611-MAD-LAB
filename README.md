@@ -7,8 +7,9 @@
 2. All 15 expts Screenshots
 3. All 15 expts .apk files
 4. Google Android Course Completion link
-5. Project code folder
-6. Poject .apk file
-7. Project Report
-8. LAB RECORD
-9. UI path completion Certificate
+5. Google Android Course Completion profile screenshot
+6. Project code folder
+7. Poject .apk file
+8. Project Report
+9. LAB RECORD
+10. UI path completion Certificate
